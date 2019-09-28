@@ -25,11 +25,11 @@ This project mainly deals with creating a database regarding cab booking and che
 
 <p><b>Login</b>
   <br><img src = "https://github.com/SrijanReddy/Mini-Cab-Operator/blob/master/ScreenShots/login.jpg?raw=true" height=350>
-  <br>
-  <b>Register(Passenger)</b><img src = "https://github.com/SrijanReddy/Mini-Cab-Operator/blob/master/ScreenShots/register.jpg?raw=true" height=350><br>
-  <b>Passenger interface</b><img src = "https://github.com/SrijanReddy/Mini-Cab-Operator/blob/master/ScreenShots/passenger.jpg?raw=true" height=350><br>
-  <b>Driver Interface</b><img src = "https://github.com/SrijanReddy/Mini-Cab-Operator/blob/master/ScreenShots/driver.jpg?raw=true" height=350><em>Invoice</em>
-</p>
+  <br><br>
+  <b>Register(Passenger)</b><img src = "https://github.com/SrijanReddy/Mini-Cab-Operator/blob/master/ScreenShots/register.jpg?raw=true" height=350><br><br>
+  <b>Passenger interface</b><img src = "https://github.com/SrijanReddy/Mini-Cab-Operator/blob/master/ScreenShots/passenger.jpg?raw=true" height=350><br><br>
+  <b>Driver Interface</b><img src = "https://github.com/SrijanReddy/Mini-Cab-Operator/blob/master/ScreenShots/driver.jpg?raw=true" height=350>
+</p><br><br>
 
 
-<i>Mini-project done as per coursework of semester 5</i>
+<i>Mini-project done as per coursework of semester 5</i></p>

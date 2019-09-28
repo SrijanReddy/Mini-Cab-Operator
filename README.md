@@ -13,23 +13,23 @@ This project mainly deals with creating a database regarding cab booking and che
 
 ## Entity Relation Model
 
-<img src = "https://github.com/SrijanReddy/Mini-Cab-Operator/Entity-Relational%20Model.jpg?raw=true" width = 700>
+<img src = "https://github.com/SrijanReddy/Mini-Cab-Operator/blob/master//Entity-Relational%20Model.jpg?raw=true" width = 700>
 
 
 ## Relational Model
 
-<img src = "https://github.com/SrijanReddy/Mini-Cab-Operator/RelationalModel.jpg?raw=true" width = 700>
+<img src = "https://github.com/SrijanReddy/Mini-Cab-Operator/blob/master/RelationalModel.jpg?raw=true" width = 700>
 
 
 ## Screenshots
 
-<p><b>Login</b>
-  <br><img src = "https://github.com/SrijanReddy/Mini-Cab-Operator/blob/master/ScreenShots/login.jpg?raw=true" height=350>
-  <br><br>
-  <b>Register(Passenger)</b><img src = "https://github.com/SrijanReddy/Mini-Cab-Operator/blob/master/ScreenShots/register.jpg?raw=true" height=350><br><br>
-  <b>Passenger interface</b><img src = "https://github.com/SrijanReddy/Mini-Cab-Operator/blob/master/ScreenShots/passenger.jpg?raw=true" height=350><br><br>
-  <b>Driver Interface</b><img src = "https://github.com/SrijanReddy/Mini-Cab-Operator/blob/master/ScreenShots/driver.jpg?raw=true" height=350>
-</p><br><br>
+<p>
+ <img src = "https://github.com/SrijanReddy/Mini-Cab-Operator/blob/master/ScreenShots/login.jpg?raw=true" height=350>
+ <img src = "https://github.com/SrijanReddy/Mini-Cab-Operator/blob/master/ScreenShots/register.jpg?raw=true" height=350>
+ <img src = "https://github.com/SrijanReddy/Mini-Cab-Operator/blob/master/ScreenShots/passenger.jpg?raw=true" height=350>
+ <img src = "https://github.com/SrijanReddy/Mini-Cab-Operator/blob/master/ScreenShots/driver.jpg?raw=true" height=350>
+</p>
+
 
 
 <i>Mini-project done as per coursework of semester 5</i></p>

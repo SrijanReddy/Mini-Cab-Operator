@@ -13,7 +13,7 @@ This project mainly deals with creating a database regarding cab booking and che
 
 ## Entity Relation Model
 
-<img src = "https://github.com/SrijanReddy/Mini-Cab-Operator/blob/master//Entity-Relational%20Model.jpg?raw=true" width = 700>
+<img src = "https://github.com/SrijanReddy/Mini-Cab-Operator/blob/master/Entity-Relational%20Model.jpg?raw=true" width = 700>
 
 
 ## Relational Model

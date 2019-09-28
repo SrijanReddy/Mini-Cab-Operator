@@ -18,7 +18,7 @@ This project mainly deals with creating a database regarding cab booking and che
 
 ## Relational Model
 
-<img src = "https://github.com/SrijanReddy/Mini-Cab-Operator/blob/master/RelationalModel.jpg?raw=true" width = 700>
+<img src = "https://github.com/SrijanReddy/Mini-Cab-Operator/blob/master/RelationalModel.png?raw=true" width = 700>
 
 
 ## Screenshots

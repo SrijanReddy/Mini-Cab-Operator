@@ -8,7 +8,7 @@
 
 ## Abstract
 
-This project mainly deals with creating a database regarding cab booking and checking the availability of vehicles. In this database we will store some model names. The main goal of our project is to provide transportation service to the customer based on his location. The purpose of the project is bot to operate alongside Public Transit but to replace it.
+This project mainly deals with creating a database regarding cab booking and checking the availability of vehicles. In this database we will store some model names. The main goal of our project is to provide transportation service to the customer based on his location. The purpose of the project is not to operate alongside Public Transit but to replace it.
 
 
 ## Entity Relation Model
